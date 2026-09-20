@@ -6,11 +6,13 @@ A beginner-friendly banking management application built with **Python + Streaml
 
 ## 🚀 Live Demo
 
-**Streamlit App:** Add your deployed Streamlit URL here
+**Streamlit App:** [Open MyBank](https://mybank-by-yash.streamlit.app/)
 
 ## 💻 GitHub
 
-**Repository:** Add your GitHub repository URL here
+**Repository:** ## 💻 GitHub
+
+[View Source Code](https://github.com/yashgurav1147/mybank-streamlit)
 
 ## ✨ Features
 
